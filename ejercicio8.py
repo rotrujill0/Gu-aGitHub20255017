@@ -1,1 +1,1 @@
-print("versión rama main")
+print("Conflicto Resuelto")
